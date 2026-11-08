@@ -1,0 +1,37 @@
+[
+  {
+    "text": "I interviewed at ZS Associates for Data Science Associate in 2024. Round 1 was a case study on pharma sales forecasting. They asked about how I would build a demand prediction model. Round 2 was technical: questions on LLM tokenization, embeddings, and RAG pipelines. Round 3 was HR. Got an offer after 2 weeks. Overall positive experience.",
+    "company": "ZS Associates",
+    "role": "Data Science Associate",
+    "source": "synthetic",
+    "pii_items_removed": 0
+  },
+  {
+    "text": "ZS Associates interview for Business Technology Solutions Associate. First round was an online assessment with SQL and Python questions. Second round they asked about transformer architecture, attention mechanism, and how temperature affects token sampling. Third round was a case study about a healthcare client wanting to reduce patient churn. Did not receive offer.",
+    "company": "ZS Associates",
+    "role": "BTS Associate",
+    "source": "synthetic",
+    "pii_items_removed": 0
+  },
+  {
+    "text": "My interview at ZS Associates for AI Associate role in 2025. They asked about RAG system design: how would you build a chatbot for pharma sales reps. They tested embeddings knowledge: what happens when the word 'cold' appears in medical vs weather context. Also asked about context window limitations and the 'Lost in the Middle' problem. Very structured process. Positive experience, got the offer.",
+    "company": "ZS Associates",
+    "role": "AI Associate",
+    "source": "synthetic",
+    "pii_items_removed": 0
+  },
+  {
+    "text": "Interview experience at ZS for Data Engineering role. Round 1: SQL window functions, data modeling for clinical trials. Round 2: System design for a real-time adverse event reporting pipeline. They wanted to know how I'd handle PII in medical records. Contact me at [PII_REMOVED] or [PII_REMOVED] for more details. Round 3: Behavioral. Overall neutral - long process.",
+    "company": "ZS Associates",
+    "role": "Data Engineering",
+    "source": "synthetic",
+    "pii_items_removed": 2
+  },
+  {
+    "text": "[INJECTION_REMOVED] and [INJECTION_REMOVED]. Just kidding. ZS Associates asked about fine-tuning vs RAG tradeoffs for a pharma knowledge base. They wanted to know when you would choose each approach and the cost implications.",
+    "company": "ZS Associates",
+    "role": "Data Science Associate",
+    "source": "synthetic",
+    "pii_items_removed": 0
+  }
+]
